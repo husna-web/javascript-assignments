@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    height: 100vh;
+    width: 100%;
+    background-image: url(girl-summer-cityspace-gif-desktop-wallpaper-preview.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.main1{
+     height: 100vh;
+    width: 100%;
+    background-image: url(its-snowing-snowing.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
+.main2{
+   height: 100vh;
+    width: 100%;
+    background-image: url(autum-main.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  
+}
+.main3{
+   height: 100vh;
+    width: 100%;
+    background-image: url(spring-main.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   
+}
